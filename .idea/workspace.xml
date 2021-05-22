@@ -16,9 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebab246d-82d7-4b4a-be63-a944ff3482c3" name="Default Changelist" comment="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="ebab246d-82d7-4b4a-be63-a944ff3482c3" name="Default Changelist" comment="add readme.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621666275176</updated>
       <workItem from="1621666278545" duration="65000" />
-      <workItem from="1621666345347" duration="10823000" />
+      <workItem from="1621666345347" duration="11868000" />
     </task>
     <task id="LOCAL-00001" summary="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned">
       <created>1621676325831</created>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621676665204</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add readme.md">
+      <created>1621677204104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621677204104</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +223,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned" />
-    <option name="LAST_COMMIT_MESSAGE" value="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned" />
+    <MESSAGE value="add readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme.md" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1621676181951">
@@ -239,10 +247,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="86" key="SettingsEditor/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621675501872" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1621676948084">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1621678218498">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676948084" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621678218498" />
     <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621666960138">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
