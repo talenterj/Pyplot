@@ -11,11 +11,15 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebab246d-82d7-4b4a-be63-a944ff3482c3" name="Default Changelist" comment="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned" />
+    <list default="true" id="ebab246d-82d7-4b4a-be63-a944ff3482c3" name="Default Changelist" comment="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621666275176</updated>
       <workItem from="1621666278545" duration="65000" />
-      <workItem from="1621666345347" duration="10012000" />
+      <workItem from="1621666345347" duration="10823000" />
     </task>
     <task id="LOCAL-00001" summary="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned">
       <created>1621676325831</created>
@@ -172,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621676325832</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned">
+      <created>1621676665204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621676665204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +194,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -216,6 +239,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="86" key="SettingsEditor/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621675501872" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1621676948084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676948084" />
     <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621666960138">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
