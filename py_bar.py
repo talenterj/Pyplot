@@ -3,27 +3,29 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 在线显示
-%matplotlib inline
 
 # 定义画布的大小
 fig = plt.figure(figsize = (15,8))
 
 # 添加主标题
-plt.title("各品牌汽车的销量")
+plt.title("sales")
 
 # 设置X周与Y周的标题
-# plt.xlabel("品牌")
-# plt.ylabel("销量")
+plt.xlabel("brand")
+plt.ylabel("sales num")
 
 # 显示网格线
-# plt.grid(True)
+plt.grid(True)
 
 # 设置 x轴 数据
-x = np.array(["宝马","奔驰","奥迪","马自达","大众","布加迪","兰博基尼","法拉利","本田","丰田"])
+x = np.array(["BMW","BENC","AODI","MAZID"])
 
-# 设置 y轴 数据
-y = np.array([1000,800,600,400,300,250,150,100,80,50])
+# 设置 y 数据,四季度
+y1 = np.array([1000,800,600,400])
+y2 = np.array([200,800,100,400])
+y3 = np.array([300,800,600,400])
+y4 = np.array([4000,800,600,400])
+
 
 # 直接绘制简单的柱状图
 # plt.bar(x,y)
@@ -35,7 +37,8 @@ y = np.array([1000,800,600,400,300,250,150,100,80,50])
 # plt.bar(x,y,color = "m",width = 0.6)
 
 # 绘制柱状图，并给每根柱子的颜色根据自己的喜好来自定义
-plt.bar(x,y,color = ["red","yellow","green","blue","black","gold","pink","purple","violet","Chocolate"])
+plt.bar(x,y1)
+plt.bar(x,y2)
 
 # 保存输出绘制的图形到指定的路径中
-plt.savefig(r"C:\Users\QDM\Desktop\car.png")
+plt.show()
