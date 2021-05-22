@@ -15,15 +15,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebab246d-82d7-4b4a-be63-a944ff3482c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UCS.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readcsv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C:\Users\QDM\Desktop\car.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_bar.py" afterDir="false" />
-    </list>
+    <list default="true" id="ebab246d-82d7-4b4a-be63-a944ff3482c3" name="Default Changelist" comment="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -170,8 +163,16 @@
       <option name="presentableId" value="Default" />
       <updated>1621666275176</updated>
       <workItem from="1621666278545" duration="65000" />
-      <workItem from="1621666345347" duration="9700000" />
+      <workItem from="1621666345347" duration="10012000" />
     </task>
+    <task id="LOCAL-00001" summary="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned">
+      <created>1621676325831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621676325832</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,23 +190,28 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned" />
+    <option name="LAST_COMMIT_MESSAGE" value="readcv: readfiles and plot scatters&#10;double_bar :print double bars&#10;example figure: scatter.png&#10;learned" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1621676025521">
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1621676181951">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676025521" />
-    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1621676025520">
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676181951" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1621676181947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676025520" />
-    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1621676025519">
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676181947" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1621676181944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676025519" />
-    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1621676025520">
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676181944" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1621676181949">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676025520" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900/156.-1080.1920.1080@0.0.1440.900" timestamp="1621676181949" />
     <state x="229" y="86" key="SettingsEditor" timestamp="1621675501872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
